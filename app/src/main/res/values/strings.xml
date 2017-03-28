@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="devAudioRecorder">DevAudioRecorder</string>
+    <string name="hello">Hello World, !</string>
+    <string name="app_name">Dev Audio Recorder</string>
+
+</resources>
